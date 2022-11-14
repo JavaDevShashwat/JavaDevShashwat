@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [[https://shashwat-srivastava-portfolio.netlify.app/]([https://javadevshashwat.github.io/](https://javadevshashwat.github.io/))]([https://shashwat-srivastava-portfolio.netlify.app/](https://javadevshashwat.github.io/))
+- 👨‍💻 All of my projects are available at (https://javadevshashwat.github.io/)
 
 - 💬 Ask me about **JavaScript, Java**
 
