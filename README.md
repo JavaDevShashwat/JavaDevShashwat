@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shashwat Srivastava</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width ="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47u2d20t3kg0ug5gp8fm9cm3lewyhj3gh6ehi5cr4t&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devyash1&label=Profile%20views&color=0e75b6&style=flat" alt="devyash1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JavaDevShashwat&label=Profile%20views&color=0e75b6&style=flat" alt="JavaDevShashwat" /> </p>
 
 - 🔭 I’m currently working on **Spring Boot**
 
@@ -14,13 +14,13 @@
 
 - 📫 How to reach me **sswtsrv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P0PFH6yKghud1Dkbip1jPaE_Q5JqwptH/view?usp=sharing](https://drive.google.com/file/d/1P0PFH6yKghud1Dkbip1jPaE_Q5JqwptH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bmcxH417Z5lpkNzZAHkAFuqq04cJK_kz/view?usp=sharing](https://drive.google.com/file/d/1bmcxH417Z5lpkNzZAHkAFuqq04cJK_kz/view?usp=sharing)
 
 - ⚡ Fun fact **I like to Swim, And it's been only one month.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-srivastava-55b16187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-srivastava-55b16187/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashwat-srivastava-55b16187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-srivastava-55b16187/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13170913/shashwat-srvastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13170913/shashwat-srvastava" height="30" width="40" /></a>
 </p>
 
