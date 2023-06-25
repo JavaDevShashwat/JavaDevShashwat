@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bmcxH417Z5lpkNzZAHkAFuqq04cJK_kz/view?usp=sharing](https://drive.google.com/file/d/1bmcxH417Z5lpkNzZAHkAFuqq04cJK_kz/view?usp=sharing)
 
-- ⚡ Fun fact **I like to Swim, And it's been only one month.**
+- ⚡ Fun fact **I am good at Swimming, And it's been only one month.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
