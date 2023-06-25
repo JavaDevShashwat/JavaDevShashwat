@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width ="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47u2d20t3kg0ug5gp8fm9cm3lewyhj3gh6ehi5cr4t&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JavaDevShashwat&label=Profile%20views&color=0e75b6&style=flat" alt="JavaDevShashwat" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot**
+- 🔭 I’m currently working on **Spring Security**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Microservices with Eureka Server**
 
 - 👨‍💻 All of my projects are available at (https://javadevshashwat.github.io/)
 
